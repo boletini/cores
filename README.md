@@ -6,7 +6,7 @@
 ---
 
 ## Sobre 
-Projeto do curso de desenvolvimento de sistemas com o objetivo de colocar em prática os conhecimentos adquirido na aula de Front End
+Projeto do curso de desenvolvimento de sistemas com o objetivo de colocar em prática os conhecimentos adquirido na aula de Front End no
  [SENAI Jandira](https://sp.senai.br/unidade/jandira/).
 
 ---
